@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Major Mono Display', monospace;
+  font-family: 'Special Elite', cursive;
 }
 
 code {
